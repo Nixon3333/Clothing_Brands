@@ -1,0 +1,2091 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--<yml_catalog date="2018-10-29 07:32:13">
+    <shop>
+        <title>lamoda.ru</title>
+        <company>ООО Купишуз</company>
+        <url>https://www.lamoda.ru</url>
+        <phone>8-800-250-08-78</phone>
+        <currencies>
+            <currency
+                id="RUB"
+                rate="1" />
+        </currencies>-->
+
+
+        <offers>
+            <offer
+                available="true"
+                id="AS455AMZTP28"
+                type="vendor.model">
+                <description>Кроссовки ASICS. Цвет: белый. Материал: искусственная кожа,
+                    текстиль.Сезон: Осень-зима 2018/2019. С бесплатной доставкой и примеркой на
+                    Lamoda.
+                </description>
+                <name>Кроссовки ASICS</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/S/AS455AMZTP28_5932985_1_v4.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/S/AS455AMZTP28_5932986_2_v4.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/S/AS455AMZTP28_5932987_3_v4.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/S/AS455AMZTP28_5932988_4_v4.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/S/AS455AMZTP28_5957257_9_v3.jpg
+                </picture>
+                <price>2840.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fas455amztp28%2Fshoes-asics-krossovki%2F</url>
+                <model>ASICS AS455AMZTP28</model>
+            </offer>
+
+            <offer
+                available="true"
+                id="AD093CUUNJ15"
+                type="vendor.model">
+                <description>Панама adidas Originals. Цвет: черный. Сезон: Осень-зима 2018/2019. С
+                    бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Панама adidas Originals</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD093CUUNJ15_4964733_1_v2.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD093CUUNJ15_4964734_2_v2.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD093CUUNJ15_4964735_3_v2.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD093CUUNJ15_4964736_4_v2.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD093CUUNJ15_4970654_9_v2.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD093CUUNJ15_4979144_10_v2.jpg
+                </picture>
+                <price>1520.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fad093cuunj15%2Fhats-adidasoriginals-panama%2F</url>
+                <model>adidas Originals AD093CUUNJ15</model>
+            </offer>
+
+            <offer
+                available="true"
+                id="AD002AWALWW3"
+                type="vendor.model">
+                <description>Кроссовки adidas. Цвет: розовый. Материал: полимер, текстиль.Сезон:
+                    Весна-лето 2018. С бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Кроссовки adidas</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD002AWALWW3_6105398_1_v3.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD002AWALWW3_6105399_2_v3.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD002AWALWW3_6105400_3_v3.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD002AWALWW3_6105401_4_v3.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD002AWALWW3_6114951_9_v3.jpg
+                </picture>
+                <price>3590.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fad002awalww3%2Fshoes-adidas-krossovki%2F</url>
+                <model>adidas AD002AWALWW3</model>
+            </offer>
+            <offer
+                available="true"
+                id="AS455EMZTE07"
+                type="vendor.model">
+                <description>Шорты спортивные ASICS. Цвет: черный. Сезон: Осень-зима 2018/2019. С
+                    бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Шорты спортивные ASICS</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/S/AS455EMZTE07_6112162_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/S/AS455EMZTE07_6112163_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/S/AS455EMZTE07_6112164_3_v1.jpg
+                </picture>
+                <price>1160.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fas455emzte07%2Fclothes-asics-shorty-sportivnye%2F</url>
+                <model>ASICS AS455EMZTE07</model>
+            </offer>
+            <offer
+                available="true"
+                id="AS455EWZTJ47"
+                type="vendor.model">
+                <description>Леггинсы ASICS. Цвет: черный. Сезон: Весна-лето 2018. С бесплатной
+                    доставкой и примеркой на Lamoda.
+                </description>
+                <name>Леггинсы ASICS</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/S/AS455EWZTJ47_6116035_1_v2.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/S/AS455EWZTJ47_6116036_2_v2.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/S/AS455EWZTJ47_6116037_3_v2.jpg
+                </picture>
+                <price>1750.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fas455ewztj47%2Fclothes-asics-legginsy%2F</url>
+                <model>ASICS AS455EWZTJ47</model>
+            </offer>
+
+            <offer
+                available="true"
+                id="AD093EWALPB3"
+                type="vendor.model">
+                <description>Леггинсы adidas Originals. Цвет: мультиколор. Сезон: Весна-лето 2018. С
+                    бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Леггинсы adidas Originals</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD093EWALPB3_6104163_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD093EWALPB3_6104164_2_v1.jpg
+                </picture>
+                <price>2710.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fad093ewalpb3%2Fclothes-adidasoriginals-legginsy%2F</url>
+                <model>adidas Originals AD093EWALPB3</model>
+            </offer>
+            <offer
+                available="true"
+                id="AD093EBALQI5"
+                type="vendor.model">
+                <description>Костюм спортивный adidas Originals. Цвет: серый, черный. Сезон:
+                    Весна-лето 2018. С бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Костюм спортивный adidas Originals</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD093EBALQI5_6104074_1_v2.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD093EBALQI5_6104075_2_v2.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD093EBALQI5_6104076_3_v2.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD093EBALQI5_7129700_4_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD093EBALQI5_7129701_5_v1.jpg
+                </picture>
+                <price>2850.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fad093ebalqi5%2Fclothes-adidasoriginals-kostyum-sportivnyy%2F</url>
+                <model>adidas Originals AD093EBALQI5</model>
+            </offer>
+
+            <offer
+                available="true"
+                id="AS455AWZTQ90"
+                type="vendor.model">
+                <description>Кроссовки ASICS. Цвет: голубой. Материал: текстиль.Сезон: Весна-лето
+                    2018. С бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Кроссовки ASICS</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/S/AS455AWZTQ90_6412430_1_v2.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/S/AS455AWZTQ90_6412431_2_v2.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/S/AS455AWZTQ90_6412432_3_v2.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/S/AS455AWZTQ90_6412433_4_v2.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/S/AS455AWZTQ90_6426697_9_v1.jpg
+                </picture>
+                <price>6490.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fas455awztq90%2Fshoes-asics-krossovki%2F</url>
+                <model>ASICS AS455AWZTQ90</model>
+            </offer>
+
+            <offer
+                available="true"
+                id="AD094AKALZI7"
+                type="vendor.model">
+                <description>Сандалии adidas. Цвет: черный. Материал: полимер.Сезон: Весна-лето
+                    2018. С бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Сандалии adidas</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD094AKALZI7_6483332_1_v2.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD094AKALZI7_6483333_2_v2.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD094AKALZI7_6483334_3_v2.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD094AKALZI7_6483335_4_v2.jpg
+                </picture>
+                <price>2110.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fad094akalzi7%2Fshoes-adidas-sandalii%2F</url>
+                <model>adidas AD094AKALZI7</model>
+            </offer>
+            <offer
+                available="true"
+                id="AD002AWALQY5"
+                type="vendor.model">
+                <description>Кроссовки adidas. Цвет: белый. Материал: полимер, текстиль.Сезон:
+                    Весна-лето 2018. С бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Кроссовки adidas</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD002AWALQY5_6487070_1_v2.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD002AWALQY5_6487071_2_v2.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD002AWALQY5_6487072_3_v2.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD002AWALQY5_6487073_4_v2.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD002AWALQY5_6513571_9_v1.jpg
+                </picture>
+                <price>4240.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fad002awalqy5%2Fshoes-adidas-krossovki%2F</url>
+                <model>adidas AD002AWALQY5</model>
+            </offer>
+
+            <offer
+                available="true"
+                id="AR037AWZSW63"
+                type="vendor.model">
+                <description>Эспадрильи Armani Exchange. Цвет: голубой. Материал: текстиль.Сезон:
+                    Весна-лето 2018. С бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Эспадрильи Armani Exchange</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/R/AR037AWZSW63_6646872_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/R/AR037AWZSW63_6646873_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/R/AR037AWZSW63_6646874_3_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/R/AR037AWZSW63_6646875_4_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/R/AR037AWZSW63_6664520_9_v1.jpg
+                </picture>
+                <price>7900.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Far037awzsw63%2Fshoes-armaniexchange-espadrili%2F</url>
+                <model>Armani Exchange AR037AWZSW63</model>
+            </offer>
+
+            <offer
+                available="true"
+                id="AD002EMAMAV0"
+                type="vendor.model">
+                <description>Брюки спортивные adidas. Цвет: синий. Сезон: Весна-лето 2018. С
+                    бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Брюки спортивные adidas</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD002EMAMAV0_6735940_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD002EMAMAV0_6735941_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD002EMAMAV0_6735942_3_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD002EMAMAV0_6735943_4_v1.jpg
+                </picture>
+                <price>3980.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fad002emamav0%2Fclothes-adidas-bryuki-sportivnye%2F</url>
+                <model>adidas AD002EMAMAV0</model>
+            </offer>
+
+            <offer
+                available="true"
+                id="AS455AWBRNE8"
+                type="vendor.model">
+                <description>Кроссовки ASICS. Цвет: черный. Материал: полимер, текстиль.Сезон:
+                    Осень-зима 2018/2019. С бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Кроссовки ASICS</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/S/AS455AWBRNE8_6827929_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/S/AS455AWBRNE8_6827930_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/S/AS455AWBRNE8_6827931_3_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/S/AS455AWBRNE8_6827932_4_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/S/AS455AWBRNE8_6835902_9_v1.jpg
+                </picture>
+                <price>7190.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fas455awbrne8%2Fshoes-asics-krossovki%2F</url>
+                <model>ASICS AS455AWBRNE8</model>
+            </offer>
+
+            <offer
+                available="true"
+                id="AS455AMBRMR3"
+                type="vendor.model">
+                <description>Кроссовки ASICS. Цвет: серый. Материал: полимер, текстиль.Сезон:
+                    Осень-зима 2018/2019. С бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Кроссовки ASICS</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/S/AS455AMBRMR3_6827589_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/S/AS455AMBRMR3_6827590_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/S/AS455AMBRMR3_6827591_3_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/S/AS455AMBRMR3_6827592_4_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/S/AS455AMBRMR3_6832332_9_v1.jpg
+                </picture>
+                <price>6290.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fas455ambrmr3%2Fshoes-asics-krossovki%2F</url>
+                <model>ASICS AS455AMBRMR3</model>
+            </offer>
+            <offer
+                available="true"
+                id="BA060EMQEA71"
+                type="vendor.model">
+                <description>Куртка кожаная Bata. Цвет: серый. Сезон: Весна-лето 2018. С бесплатной
+                    доставкой и примеркой на Lamoda.
+                </description>
+                <name>Куртка кожаная Bata</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA060EMQEA71_4425919_1_v5.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA060EMQEA71_6422354_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA060EMQEA71_6422355_3_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA060EMQEA71_6422356_4_v1.jpg
+                </picture>
+                <price>4790.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fba060emqea71%2Fclothes-bata-kurtka-kozhanaya%2F</url>
+                <model>Bata BA060EMQEA71</model>
+            </offer>
+            <offer
+                available="true"
+                id="BA060DMQEC43"
+                type="vendor.model">
+                <description>Ремень Bata. Цвет: синий. Сезон: Весна-лето 2018. С бесплатной
+                    доставкой и примеркой на Lamoda.
+                </description>
+                <name>Ремень Bata</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA060DMQEC43_4566634_1_v2.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA060DMQEC43_4566635_2_v2.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA060DMQEC43_4602618_9_v2.jpg
+                </picture>
+                <price>1290.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fba060dmqec43%2Faccs-bata-remen%2F</url>
+                <model>Bata BA060DMQEC43</model>
+            </offer>
+            <offer
+                available="true"
+                id="BA067EMAJVN6"
+                type="vendor.model">
+                <description>Рубашка Banana Republic. Цвет: синий. Сезон: Весна-лето 2018. С
+                    бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Рубашка Banana Republic</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA067EMAJVN6_6488536_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA067EMAJVN6_6488537_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA067EMAJVN6_6488538_3_v1.jpg
+                </picture>
+                <price>2530.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fba067emajvn6%2Fclothes-bananarepublic-rubashka%2F</url>
+                <model>Banana Republic BA067EMAJVN6</model>
+            </offer>
+            <offer
+                available="true"
+                id="BA067EWBDLD0"
+                type="vendor.model">
+                <description>Платье Banana Republic. Цвет: белый. Сезон: Весна-лето 2018. С
+                    бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Платье Banana Republic</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA067EWBDLD0_6746139_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA067EWBDLD0_6746140_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA067EWBDLD0_6746141_3_v1.jpg
+                </picture>
+                <price>6880.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fba067ewbdld0%2Fclothes-bananarepublic-plate%2F</url>
+                <model>Banana Republic BA067EWBDLD0</model>
+            </offer>
+            <offer
+                available="true"
+                id="AD002EWCDIB9"
+                type="vendor.model">
+                <description>Футболка adidas. Цвет: черный. Сезон: Осень-зима 2018/2019. С
+                    бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Футболка adidas</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD002EWCDIB9_6951578_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD002EWCDIB9_6951579_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD002EWCDIB9_6951580_3_v1.jpg
+                </picture>
+                <price>1790.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fad002ewcdib9%2Fclothes-adidas-futbolka%2F</url>
+                <model>adidas AD002EWCDIB9</model>
+            </offer>
+            <offer
+                available="true"
+                id="BA076EMCBTH1"
+                type="vendor.model">
+                <description>Футболка Backlight. Цвет: синий. Сезон: Осень-зима 2018/2019. С
+                    бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Футболка Backlight</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTH1_6960914_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTH1_6960915_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTH1_6960916_3_v1.jpg
+                </picture>
+                <price>1390.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fba076emcbth1%2Fclothes-backlight-futbolka%2F</url>
+                <model>Backlight BA076EMCBTH1</model>
+            </offer>
+            <offer
+                available="true"
+                id="BA076EMCBTH3"
+                type="vendor.model">
+                <description>Футболка Backlight. Цвет: бирюзовый. Сезон: Осень-зима 2018/2019. С
+                    бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Футболка Backlight</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTH3_6960920_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTH3_6960921_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTH3_6960922_3_v1.jpg
+                </picture>
+                <price>1390.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fba076emcbth3%2Fclothes-backlight-futbolka%2F</url>
+                <model>Backlight BA076EMCBTH3</model>
+            </offer>
+            <offer
+                available="true"
+                id="BA076EMCBTH2"
+                type="vendor.model">
+                <description>Футболка Backlight. Цвет: розовый. Сезон: Осень-зима 2018/2019. С
+                    бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Футболка Backlight</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTH2_6960917_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTH2_6960918_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTH2_6960919_3_v1.jpg
+                </picture>
+                <price>1570.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fba076emcbth2%2Fclothes-backlight-futbolka%2F</url>
+                <model>Backlight BA076EMCBTH2</model>
+            </offer>
+            <offer
+                available="true"
+                id="BA076EMCBTH5"
+                type="vendor.model">
+                <description>Футболка Backlight. Цвет: белый. Сезон: Осень-зима 2018/2019. С
+                    бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Футболка Backlight</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTH5_6960926_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTH5_6960927_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTH5_6960928_3_v1.jpg
+                </picture>
+                <price>980.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fba076emcbth5%2Fclothes-backlight-futbolka%2F</url>
+                <model>Backlight BA076EMCBTH5</model>
+            </offer>
+            <offer
+                available="true"
+                id="BA076EMCBTG4"
+                type="vendor.model">
+                <description>Футболка Backlight. Цвет: серый. Сезон: Осень-зима 2018/2019. С
+                    бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Футболка Backlight</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTG4_6960905_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTG4_6960906_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTG4_6960907_3_v1.jpg
+                </picture>
+                <price>870.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fba076emcbtg4%2Fclothes-backlight-futbolka%2F</url>
+                <model>Backlight BA076EMCBTG4</model>
+            </offer>
+            <offer
+                available="true"
+                id="BA076EMCBTG5"
+                type="vendor.model">
+                <description>Футболка Backlight. Цвет: белый. Сезон: Осень-зима 2018/2019. С
+                    бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Футболка Backlight</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTG5_6960908_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTG5_6960909_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTG5_6960910_3_v1.jpg
+                </picture>
+                <price>870.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fba076emcbtg5%2Fclothes-backlight-futbolka%2F</url>
+                <model>Backlight BA076EMCBTG5</model>
+            </offer>
+            <offer
+                available="true"
+                id="BA076EMCBTG2"
+                type="vendor.model">
+                <description>Футболка Backlight. Цвет: белый. Сезон: Осень-зима 2018/2019. С
+                    бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Футболка Backlight</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTG2_6960899_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTG2_6960900_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTG2_6960901_3_v1.jpg
+                </picture>
+                <price>870.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fba076emcbtg2%2Fclothes-backlight-futbolka%2F</url>
+                <model>Backlight BA076EMCBTG2</model>
+            </offer>
+            <offer
+                available="true"
+                id="BA076EMCBTF2"
+                type="vendor.model">
+                <description>Футболка Backlight. Цвет: белый. Сезон: Осень-зима 2018/2019. С
+                    бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Футболка Backlight</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTF2_6960884_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTF2_6960885_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTF2_6960886_3_v1.jpg
+                </picture>
+                <price>870.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fba076emcbtf2%2Fclothes-backlight-futbolka%2F</url>
+                <model>Backlight BA076EMCBTF2</model>
+            </offer>
+            <offer
+                available="true"
+                id="BA076EMCBTF1"
+                type="vendor.model">
+                <description>Футболка Backlight. Цвет: голубой. Сезон: Осень-зима 2018/2019. С
+                    бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Футболка Backlight</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTF1_6960881_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTF1_6960882_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTF1_6960883_3_v1.jpg
+                </picture>
+                <price>870.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fba076emcbtf1%2Fclothes-backlight-futbolka%2F</url>
+                <model>Backlight BA076EMCBTF1</model>
+            </offer>
+            <offer
+                available="true"
+                id="BA076EMCBTF0"
+                type="vendor.model">
+                <description>Футболка Backlight. Цвет: бирюзовый. Сезон: Осень-зима 2018/2019. С
+                    бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Футболка Backlight</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTF0_6963519_1_v2.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTF0_6963520_2_v2.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTF0_6963521_3_v2.jpg
+                </picture>
+                <price>1090.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fba076emcbtf0%2Fclothes-backlight-futbolka%2F</url>
+                <model>Backlight BA076EMCBTF0</model>
+            </offer>
+            <offer
+                available="true"
+                id="BA076EMCBTF9"
+                type="vendor.model">
+                <description>Футболка Backlight. Цвет: серый. Сезон: Осень-зима 2018/2019. С
+                    бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Футболка Backlight</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTF9_6960890_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTF9_6960891_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTF9_6960892_3_v1.jpg
+                </picture>
+                <price>1390.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fba076emcbtf9%2Fclothes-backlight-futbolka%2F</url>
+                <model>Backlight BA076EMCBTF9</model>
+            </offer>
+            <offer
+                available="true"
+                id="BA076EMCBTF8"
+                type="vendor.model">
+                <description>Футболка Backlight. Цвет: белый. Сезон: Осень-зима 2018/2019. С
+                    бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Футболка Backlight</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTF8_6960887_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTF8_6960888_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTF8_6960889_3_v1.jpg
+                </picture>
+                <price>2090.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fba076emcbtf8%2Fclothes-backlight-futbolka%2F</url>
+                <model>Backlight BA076EMCBTF8</model>
+            </offer>
+            <offer
+                available="true"
+                id="BA076EMCBTE0"
+                type="vendor.model">
+                <description>Шорты Backlight. Цвет: зеленый. Сезон: Осень-зима 2018/2019. С
+                    бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Шорты Backlight</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTE0_6960865_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTE0_6960866_2_v1.jpg
+                </picture>
+                <price>1970.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fba076emcbte0%2Fclothes-backlight-shorty%2F</url>
+                <model>Backlight BA076EMCBTE0</model>
+            </offer>
+            <offer
+                available="true"
+                id="BA076EMCBTE8"
+                type="vendor.model">
+                <description>Футболка Backlight. Цвет: коралловый. Сезон: Осень-зима 2018/2019. С
+                    бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Футболка Backlight</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTE8_6960875_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTE8_6960876_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTE8_6960877_3_v1.jpg
+                </picture>
+                <price>870.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fba076emcbte8%2Fclothes-backlight-futbolka%2F</url>
+                <model>Backlight BA076EMCBTE8</model>
+            </offer>
+            <offer
+                available="true"
+                id="BA076EMCBVQ3"
+                type="vendor.model">
+                <description>Футболка Backlight. Цвет: бирюзовый. Сезон: Осень-зима 2018/2019. С
+                    бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Футболка Backlight</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBVQ3_6960929_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBVQ3_6960930_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBVQ3_6960931_3_v1.jpg
+                </picture>
+                <price>870.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fba076emcbvq3%2Fclothes-backlight-futbolka%2F</url>
+                <model>Backlight BA076EMCBVQ3</model>
+            </offer>
+            <offer
+                available="true"
+                id="BA076EMCBVQ6"
+                type="vendor.model">
+                <description>Футболка Backlight. Цвет: розовый. Сезон: Осень-зима 2018/2019. С
+                    бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Футболка Backlight</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBVQ6_6963525_1_v2.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBVQ6_6963526_2_v2.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBVQ6_6963527_3_v2.jpg
+                </picture>
+                <price>1340.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fba076emcbvq6%2Fclothes-backlight-futbolka%2F</url>
+                <model>Backlight BA076EMCBVQ6</model>
+            </offer>
+            <offer
+                available="true"
+                id="BA076EMCBVQ9"
+                type="vendor.model">
+                <description>Футболка Backlight. Цвет: белый. Сезон: Осень-зима 2018/2019. С
+                    бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Футболка Backlight</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBVQ9_6963531_1_v2.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBVQ9_6963532_2_v2.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBVQ9_6963533_3_v2.jpg
+                </picture>
+                <price>1530.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fba076emcbvq9%2Fclothes-backlight-futbolka%2F</url>
+                <model>Backlight BA076EMCBVQ9</model>
+            </offer>
+            <offer
+                available="true"
+                id="BA076EMCBTD9"
+                type="vendor.model">
+                <description>Шорты Backlight. Цвет: оранжевый. Сезон: Осень-зима 2018/2019. С
+                    бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Шорты Backlight</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTD9_6960863_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTD9_6960864_2_v1.jpg
+                </picture>
+                <price>1970.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fba076emcbtd9%2Fclothes-backlight-shorty%2F</url>
+                <model>Backlight BA076EMCBTD9</model>
+            </offer>
+            <offer
+                available="true"
+                id="BA076EMCBTD7"
+                type="vendor.model">
+                <description>Шорты Backlight. Цвет: розовый. Сезон: Осень-зима 2018/2019. С
+                    бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Шорты Backlight</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTD7_6960861_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTD7_6960862_2_v1.jpg
+                </picture>
+                <price>1810.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fba076emcbtd7%2Fclothes-backlight-shorty%2F</url>
+                <model>Backlight BA076EMCBTD7</model>
+            </offer>
+            <offer
+                available="true"
+                id="BA076EMCBVS0"
+                type="vendor.model">
+                <description>Футболка Backlight. Цвет: хаки. Сезон: Осень-зима 2018/2019. С
+                    бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Футболка Backlight</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBVS0_6963534_1_v2.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBVS0_6963535_2_v2.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBVS0_6963536_3_v2.jpg
+                </picture>
+                <price>1030.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fba076emcbvs0%2Fclothes-backlight-futbolka%2F</url>
+                <model>Backlight BA076EMCBVS0</model>
+            </offer>
+            <offer
+                available="true"
+                id="BA076EMCBTI0"
+                type="vendor.model">
+                <description>Футболка Backlight. Цвет: серый. Сезон: Осень-зима 2018/2019. С
+                    бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Футболка Backlight</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTI0_6965530_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTI0_6965531_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTI0_6965532_3_v1.jpg
+                </picture>
+                <price>1070.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fba076emcbti0%2Fclothes-backlight-futbolka%2F</url>
+                <model>Backlight BA076EMCBTI0</model>
+            </offer>
+            <offer
+                available="true"
+                id="BA076EMCBTH9"
+                type="vendor.model">
+                <description>Футболка Backlight. Цвет: черный. Сезон: Осень-зима 2018/2019. С
+                    бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Футболка Backlight</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTH9_6966843_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTH9_6966844_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTH9_6966845_3_v1.jpg
+                </picture>
+                <price>1070.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fba076emcbth9%2Fclothes-backlight-futbolka%2F</url>
+                <model>Backlight BA076EMCBTH9</model>
+            </offer>
+            <offer
+                available="true"
+                id="BA076EMCBTF6"
+                type="vendor.model">
+                <description>Футболка Backlight. Цвет: серый. Сезон: Осень-зима 2018/2019. С
+                    бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Футболка Backlight</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTF6_6965515_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTF6_6965516_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTF6_6965517_3_v1.jpg
+                </picture>
+                <price>1340.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fba076emcbtf6%2Fclothes-backlight-futbolka%2F</url>
+                <model>Backlight BA076EMCBTF6</model>
+            </offer>
+            <offer
+                available="true"
+                id="BA076EMCBTF4"
+                type="vendor.model">
+                <description>Футболка Backlight. Цвет: розовый. Сезон: Осень-зима 2018/2019. С
+                    бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Футболка Backlight</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTF4_6965509_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTF4_6965510_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTF4_6965511_3_v1.jpg
+                </picture>
+                <price>1340.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fba076emcbtf4%2Fclothes-backlight-futbolka%2F</url>
+                <model>Backlight BA076EMCBTF4</model>
+            </offer>
+            <offer
+                available="true"
+                id="BA076EMCBTF3"
+                type="vendor.model">
+                <description>Футболка Backlight. Цвет: синий. Сезон: Осень-зима 2018/2019. С
+                    бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Футболка Backlight</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTF3_6965506_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTF3_6965507_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTF3_6965508_3_v1.jpg
+                </picture>
+                <price>1640.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fba076emcbtf3%2Fclothes-backlight-futbolka%2F</url>
+                <model>Backlight BA076EMCBTF3</model>
+            </offer>
+            <offer
+                available="true"
+                id="BA076EMCBTE6"
+                type="vendor.model">
+                <description>Футболка Backlight. Цвет: белый. Сезон: Осень-зима 2018/2019. С
+                    бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Футболка Backlight</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTE6_6965500_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTE6_6965501_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTE6_6965502_3_v1.jpg
+                </picture>
+                <price>1920.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fba076emcbte6%2Fclothes-backlight-futbolka%2F</url>
+                <model>Backlight BA076EMCBTE6</model>
+            </offer>
+            <offer
+                available="true"
+                id="BA076EMCBTE7"
+                type="vendor.model">
+                <description>Футболка Backlight. Цвет: серый. Сезон: Осень-зима 2018/2019. С
+                    бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Футболка Backlight</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTE7_6965503_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTE7_6965504_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTE7_6965505_3_v1.jpg
+                </picture>
+                <price>1920.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fba076emcbte7%2Fclothes-backlight-futbolka%2F</url>
+                <model>Backlight BA076EMCBTE7</model>
+            </offer>
+            <offer
+                available="true"
+                id="BA076EMCBTE5"
+                type="vendor.model">
+                <description>Футболка Backlight. Цвет: мультиколор. Сезон: Осень-зима 2018/2019. С
+                    бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Футболка Backlight</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTE5_6965497_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTE5_6965498_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTE5_6965499_3_v1.jpg
+                </picture>
+                <price>1570.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fba076emcbte5%2Fclothes-backlight-futbolka%2F</url>
+                <model>Backlight BA076EMCBTE5</model>
+            </offer>
+            <offer
+                available="true"
+                id="BA076EMCBVQ1"
+                type="vendor.model">
+                <description>Футболка Backlight. Цвет: белый. Сезон: Осень-зима 2018/2019. С
+                    бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Футболка Backlight</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBVQ1_6965533_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBVQ1_6965534_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBVQ1_6965535_3_v1.jpg
+                </picture>
+                <price>1070.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fba076emcbvq1%2Fclothes-backlight-futbolka%2F</url>
+                <model>Backlight BA076EMCBVQ1</model>
+            </offer>
+            <offer
+                available="true"
+                id="BA076EMCBVQ2"
+                type="vendor.model">
+                <description>Футболка Backlight. Цвет: оранжевый. Сезон: Осень-зима 2018/2019. С
+                    бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Футболка Backlight</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBVQ2_6965536_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBVQ2_6965537_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBVQ2_6965538_3_v1.jpg
+                </picture>
+                <price>980.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fba076emcbvq2%2Fclothes-backlight-futbolka%2F</url>
+                <model>Backlight BA076EMCBVQ2</model>
+            </offer>
+            <offer
+                available="true"
+                id="BA076EMCBVQ4"
+                type="vendor.model">
+                <description>Футболка Backlight. Цвет: белый. Сезон: Осень-зима 2018/2019. С
+                    бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Футболка Backlight</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBVQ4_6965539_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBVQ4_6965540_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBVQ4_6965541_3_v1.jpg
+                </picture>
+                <price>1200.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fba076emcbvq4%2Fclothes-backlight-futbolka%2F</url>
+                <model>Backlight BA076EMCBVQ4</model>
+            </offer>
+            <offer
+                available="true"
+                id="BA076EMCBVQ8"
+                type="vendor.model">
+                <description>Футболка Backlight. Цвет: белый. Сезон: Осень-зима 2018/2019. С
+                    бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Футболка Backlight</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBVQ8_6965542_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBVQ8_6965543_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBVQ8_6965544_3_v1.jpg
+                </picture>
+                <price>1250.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fba076emcbvq8%2Fclothes-backlight-futbolka%2F</url>
+                <model>Backlight BA076EMCBVQ8</model>
+            </offer>
+            <offer
+                available="true"
+                id="BA076EMCBTF7"
+                type="vendor.model">
+                <description>Футболка Backlight. Цвет: синий. Сезон: Осень-зима 2018/2019. С
+                    бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Футболка Backlight</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTF7_6965518_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTF7_6965519_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTF7_6965520_3_v1.jpg
+                </picture>
+                <price>1340.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fba076emcbtf7%2Fclothes-backlight-futbolka%2F</url>
+                <model>Backlight BA076EMCBTF7</model>
+            </offer>
+            <offer
+                available="true"
+                id="BA076EMCBVR9"
+                type="vendor.model">
+                <description>Футболка Backlight. Цвет: черный. Сезон: Осень-зима 2018/2019. С
+                    бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Футболка Backlight</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBVR9_6967924_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBVR9_6967925_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBVR9_6967926_3_v1.jpg
+                </picture>
+                <price>1030.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fba076emcbvr9%2Fclothes-backlight-futbolka%2F</url>
+                <model>Backlight BA076EMCBVR9</model>
+            </offer>
+            <offer
+                available="true"
+                id="BA076EMCBVR8"
+                type="vendor.model">
+                <description>Футболка Backlight. Цвет: серый. Сезон: Осень-зима 2018/2019. С
+                    бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Футболка Backlight</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBVR8_6965560_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBVR8_6965561_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBVR8_6965562_3_v1.jpg
+                </picture>
+                <price>1030.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fba076emcbvr8%2Fclothes-backlight-futbolka%2F</url>
+                <model>Backlight BA076EMCBVR8</model>
+            </offer>
+            <offer
+                available="true"
+                id="BA076EMCBVR0"
+                type="vendor.model">
+                <description>Футболка Backlight. Цвет: белый. Сезон: Осень-зима 2018/2019. С
+                    бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Футболка Backlight</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBVR0_6965545_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBVR0_6965546_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBVR0_6965547_3_v1.jpg
+                </picture>
+                <price>1250.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fba076emcbvr0%2Fclothes-backlight-futbolka%2F</url>
+                <model>Backlight BA076EMCBVR0</model>
+            </offer>
+            <offer
+                available="true"
+                id="BA076EMCBVR2"
+                type="vendor.model">
+                <description>Футболка Backlight. Цвет: серый. Сезон: Осень-зима 2018/2019. С
+                    бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Футболка Backlight</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBVR2_6966846_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBVR2_6966847_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBVR2_6966848_3_v1.jpg
+                </picture>
+                <price>1340.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fba076emcbvr2%2Fclothes-backlight-futbolka%2F</url>
+                <model>Backlight BA076EMCBVR2</model>
+            </offer>
+            <offer
+                available="true"
+                id="BA076EMCBVR5"
+                type="vendor.model">
+                <description>Футболка Backlight. Цвет: хаки. Сезон: Осень-зима 2018/2019. С
+                    бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Футболка Backlight</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBVR5_6967921_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBVR5_6967922_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBVR5_6967923_3_v1.jpg
+                </picture>
+                <price>980.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fba076emcbvr5%2Fclothes-backlight-futbolka%2F</url>
+                <model>Backlight BA076EMCBVR5</model>
+            </offer>
+            <offer
+                available="true"
+                id="BA076EMCBVR7"
+                type="vendor.model">
+                <description>Футболка Backlight. Цвет: белый. Сезон: Осень-зима 2018/2019. С
+                    бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Футболка Backlight</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBVR7_6965557_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBVR7_6965558_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBVR7_6965559_3_v1.jpg
+                </picture>
+                <price>870.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fba076emcbvr7%2Fclothes-backlight-futbolka%2F</url>
+                <model>Backlight BA076EMCBVR7</model>
+            </offer>
+            <offer
+                available="true"
+                id="BA076EMCBVR6"
+                type="vendor.model">
+                <description>Футболка Backlight. Цвет: розовый. Сезон: Осень-зима 2018/2019. С
+                    бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Футболка Backlight</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBVR6_6965554_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBVR6_6965555_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBVR6_6965556_3_v1.jpg
+                </picture>
+                <price>870.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fba076emcbvr6%2Fclothes-backlight-futbolka%2F</url>
+                <model>Backlight BA076EMCBVR6</model>
+            </offer>
+            <offer
+                available="true"
+                id="AS455EMBRKU2"
+                type="vendor.model">
+                <description>Тайтсы ASICS. Цвет: черный. Сезон: Осень-зима 2018/2019. С бесплатной
+                    доставкой и примеркой на Lamoda.
+                </description>
+                <name>Тайтсы ASICS</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/S/AS455EMBRKU2_6971784_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/S/AS455EMBRKU2_6971785_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/S/AS455EMBRKU2_6971786_3_v1.jpg
+                </picture>
+                <price>2960.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fas455embrku2%2Fclothes-asics-taytsy%2F</url>
+                <model>ASICS AS455EMBRKU2</model>
+            </offer>
+            <offer
+                available="true"
+                id="AS455EMBRKQ6"
+                type="vendor.model">
+                <description>Брюки спортивные ASICS. Цвет: черный. Сезон: Осень-зима 2018/2019. С
+                    бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Брюки спортивные ASICS</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/S/AS455EMBRKQ6_6971766_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/S/AS455EMBRKQ6_6971767_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/S/AS455EMBRKQ6_6971768_3_v1.jpg
+                </picture>
+                <price>2690.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fas455embrkq6%2Fclothes-asics-bryuki-sportivnye%2F</url>
+                <model>ASICS AS455EMBRKQ6</model>
+            </offer>
+            <offer
+                available="true"
+                id="BA076EMCBTD5"
+                type="vendor.model">
+                <description>Шорты Backlight. Цвет: серый. Сезон: Осень-зима 2018/2019. С бесплатной
+                    доставкой и примеркой на Lamoda.
+                </description>
+                <name>Шорты Backlight</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTD5_6979290_1_v2.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTD5_6979291_2_v2.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTD5_6979292_3_v2.jpg
+                </picture>
+                <price>3890.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fba076emcbtd5%2Fclothes-backlight-shorty%2F</url>
+                <model>Backlight BA076EMCBTD5</model>
+            </offer>
+            <offer
+                available="true"
+                id="BA076EMCBTD4"
+                type="vendor.model">
+                <description>Шорты Backlight. Цвет: бирюзовый. Сезон: Осень-зима 2018/2019. С
+                    бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Шорты Backlight</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTD4_6979287_1_v2.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTD4_6979288_2_v2.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBTD4_6979289_3_v2.jpg
+                </picture>
+                <price>3890.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fba076emcbtd4%2Fclothes-backlight-shorty%2F</url>
+                <model>Backlight BA076EMCBTD4</model>
+            </offer>
+            <offer
+                available="true"
+                id="BA076EMCBVS1"
+                type="vendor.model">
+                <description>Футболка Backlight. Цвет: белый. Сезон: Осень-зима 2018/2019. С
+                    бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Футболка Backlight</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBVS1_6977302_1_v2.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBVS1_6977303_2_v2.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA076EMCBVS1_6977304_3_v2.jpg
+                </picture>
+                <price>1550.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fba076emcbvs1%2Fclothes-backlight-futbolka%2F</url>
+                <model>Backlight BA076EMCBVS1</model>
+            </offer>
+            <offer
+                available="true"
+                id="AD093EWCCZJ6"
+                type="vendor.model">
+                <description>Брюки спортивные adidas Originals. Цвет: синий. Сезон: Осень-зима
+                    2018/2019. С бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Брюки спортивные adidas Originals</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD093EWCCZJ6_6980274_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD093EWCCZJ6_6980275_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD093EWCCZJ6_6980276_3_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD093EWCCZJ6_6980277_4_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD093EWCCZJ6_6980278_5_v1.jpg
+                </picture>
+                <price>3950.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fad093ewcczj6%2Fclothes-adidasoriginals-bryuki-sportivnye%2F</url>
+                <model>adidas Originals AD093EWCCZJ6</model>
+            </offer>
+            <offer
+                available="true"
+                id="AD002AMCDJE1"
+                type="vendor.model">
+                <description>Кроссовки adidas. Цвет: черный. Материал: текстиль.Сезон: Осень-зима
+                    2018/2019. С бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Кроссовки adidas</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD002AMCDJE1_7041774_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD002AMCDJE1_7041775_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD002AMCDJE1_7041776_3_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD002AMCDJE1_7041777_4_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD002AMCDJE1_7052288_9_v1.jpg
+                </picture>
+                <price>4490.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fad002amcdje1%2Fshoes-adidas-krossovki%2F</url>
+                <model>adidas AD002AMCDJE1</model>
+            </offer>
+            <offer
+                available="true"
+                id="BA067EWBVIZ7"
+                type="vendor.model">
+                <description>Блуза Banana Republic. Цвет: бежевый. Сезон: Осень-зима 2018/2019. С
+                    бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Блуза Banana Republic</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA067EWBVIZ7_7076904_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA067EWBVIZ7_7076905_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA067EWBVIZ7_7076906_3_v1.jpg
+                </picture>
+                <price>3670.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fba067ewbviz7%2Fclothes-bananarepublic-bluza%2F</url>
+                <model>Banana Republic BA067EWBVIZ7</model>
+            </offer>
+            <offer
+                available="true"
+                id="BA067EWBVIZ6"
+                type="vendor.model">
+                <description>Рубашка Banana Republic. Цвет: белый. Сезон: Осень-зима 2018/2019. С
+                    бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Рубашка Banana Republic</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA067EWBVIZ6_7076901_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA067EWBVIZ6_7076902_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA067EWBVIZ6_7076903_3_v1.jpg
+                </picture>
+                <price>2990.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fba067ewbviz6%2Fclothes-bananarepublic-rubashka%2F</url>
+                <model>Banana Republic BA067EWBVIZ6</model>
+            </offer>
+            <offer
+                available="true"
+                id="BA072AMBQIO6"
+                type="vendor.model">
+                <description>Ботинки Baerchi. Цвет: черный. Материал: натуральная кожа.Сезон:
+                    Осень-зима 2018/2019. С бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Ботинки Baerchi</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA072AMBQIO6_7106003_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA072AMBQIO6_7106004_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA072AMBQIO6_7106005_3_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA072AMBQIO6_7106006_4_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA072AMBQIO6_7117230_9_v1.jpg
+                </picture>
+                <price>5730.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fba072ambqio6%2Fshoes-baerchi-botinki%2F</url>
+                <model>Baerchi BA072AMBQIO6</model>
+            </offer>
+            <offer
+                available="true"
+                id="BA039BWCJUM7"
+                type="vendor.model">
+                <description>Рюкзак Baggini. Цвет: красный. Материал: искусственная кожа.Сезон:
+                    Осень-зима 2018/2019. С бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Рюкзак Baggini</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA039BWCJUM7_7117200_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA039BWCJUM7_7117201_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA039BWCJUM7_7117202_3_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA039BWCJUM7_7125164_9_v2.jpg
+                </picture>
+                <price>3590.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fba039bwcjum7%2Fbags-baggini-ryukzak%2F</url>
+                <model>Baggini BA039BWCJUM7</model>
+            </offer>
+            <offer
+                available="true"
+                id="BA039BWCJUG2"
+                type="vendor.model">
+                <description>Сумка Baggini. Цвет: черный. Материал: искусственная кожа.Сезон:
+                    Осень-зима 2018/2019. С бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Сумка Baggini</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA039BWCJUG2_7120229_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA039BWCJUG2_7120230_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA039BWCJUG2_7120231_3_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA039BWCJUG2_7123848_9_v1.jpg
+                </picture>
+                <price>2580.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fba039bwcjug2%2Fbags-baggini-sumka%2F</url>
+                <model>Baggini BA039BWCJUG2</model>
+            </offer>
+            <offer
+                available="true"
+                id="BA039BWCJUL6"
+                type="vendor.model">
+                <description>Рюкзак Baggini. Цвет: черный. Материал: искусственная кожа.Сезон:
+                    Осень-зима 2018/2019. С бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Рюкзак Baggini</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA039BWCJUL6_7123402_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA039BWCJUL6_7123403_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA039BWCJUL6_7123404_3_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA039BWCJUL6_7123904_9_v1.jpg
+                </picture>
+                <price>3140.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fba039bwcjul6%2Fbags-baggini-ryukzak%2F</url>
+                <model>Baggini BA039BWCJUL6</model>
+            </offer>
+            <offer
+                available="true"
+                id="AD002EMCDHC0"
+                type="vendor.model">
+                <description>Костюм спортивный adidas. Цвет: синий. Сезон: Осень-зима 2018/2019. С
+                    бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Костюм спортивный adidas</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD002EMCDHC0_7131285_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD002EMCDHC0_7131286_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD002EMCDHC0_7131287_3_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD002EMCDHC0_7131288_4_v1.jpg
+                </picture>
+                <price>6290.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fad002emcdhc0%2Fclothes-adidas-kostyum-sportivnyy%2F</url>
+                <model>adidas AD002EMCDHC0</model>
+            </offer>
+            <offer
+                available="true"
+                id="AD002AWCDKF7"
+                type="vendor.model">
+                <description>Кроссовки adidas. Цвет: серый. Материал: текстиль.Сезон: Осень-зима
+                    2018/2019. С бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Кроссовки adidas</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD002AWCDKF7_7139970_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD002AWCDKF7_7139971_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD002AWCDKF7_7139972_3_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD002AWCDKF7_7139973_4_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD002AWCDKF7_7147502_9_v1.jpg
+                </picture>
+                <price>4490.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fad002awcdkf7%2Fshoes-adidas-krossovki%2F</url>
+                <model>adidas AD002AWCDKF7</model>
+            </offer>
+            <offer
+                available="true"
+                id="AD016EWCLOR6"
+                type="vendor.model">
+                <description>Пуловер Adzhedo. Цвет: мультиколор. Сезон: Осень-зима 2018/2019. С
+                    бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Пуловер Adzhedo</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD016EWCLOR6_7139102_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD016EWCLOR6_7139103_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD016EWCLOR6_7139104_3_v1.jpg
+                </picture>
+                <price>3590.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fad016ewclor6%2Fclothes-adzhedo-pulover%2F</url>
+                <model>Adzhedo AD016EWCLOR6</model>
+            </offer>
+            <offer
+                available="true"
+                id="AR042LWCLSG3"
+                type="vendor.model">
+                <description>Масло для тела ARS. Цвет: прозрачный. Сезон: Осень-зима 2018/2019. С
+                    бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Масло для тела ARS</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/R/AR042LWCLSG3_7096186_1_v1.jpg
+                </picture>
+                <price>184.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Far042lwclsg3%2Fbeauty_accs-ars-maslo-dlya-tela%2F</url>
+                <model>ARS AR042LWCLSG3</model>
+            </offer>
+            <offer
+                available="true"
+                id="AL048AWCFAJ6"
+                type="vendor.model">
+                <description>Ботильоны Alesya. Цвет: черный. Материал: натуральная замша,
+                    текстиль.Сезон: Осень-зима 2018/2019. С бесплатной доставкой и примеркой на
+                    Lamoda.
+                </description>
+                <name>Ботильоны Alesya</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/L/AL048AWCFAJ6_7159427_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/L/AL048AWCFAJ6_7159428_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/L/AL048AWCFAJ6_7159429_3_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/L/AL048AWCFAJ6_7159430_4_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/L/AL048AWCFAJ6_7167866_9_v1.jpg
+                </picture>
+                <price>6740.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fal048awcfaj6%2Fshoes-alesya-botilony%2F</url>
+                <model>Alesya AL048AWCFAJ6</model>
+            </offer>
+            <offer
+                available="true"
+                id="AL030EWCPKL3"
+                type="vendor.model">
+                <description>Пальто Allegri. Цвет: черный. Сезон: Осень-зима 2018/2019. С бесплатной
+                    доставкой и примеркой на Lamoda.
+                </description>
+                <name>Пальто Allegri</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/L/AL030EWCPKL3_7168734_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/L/AL030EWCPKL3_7168735_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/L/AL030EWCPKL3_7168736_3_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/L/AL030EWCPKL3_7168737_4_v1.jpg
+                </picture>
+                <price>8110.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fal030ewcpkl3%2Fclothes-allegri-palto%2F</url>
+                <model>Allegri AL030EWCPKL3</model>
+            </offer>
+            <offer
+                available="true"
+                id="AL030EWCPKM9"
+                type="vendor.model">
+                <description>Пальто Allegri. Цвет: серый. Сезон: Осень-зима 2018/2019. С бесплатной
+                    доставкой и примеркой на Lamoda.
+                </description>
+                <name>Пальто Allegri</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/L/AL030EWCPKM9_7168763_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/L/AL030EWCPKM9_7168764_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/L/AL030EWCPKM9_7168765_3_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/L/AL030EWCPKM9_7168766_4_v1.jpg
+                </picture>
+                <price>10000.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fal030ewcpkm9%2Fclothes-allegri-palto%2F</url>
+                <model>Allegri AL030EWCPKM9</model>
+            </offer>
+            <offer
+                available="true"
+                id="AL030EWVJD18"
+                type="vendor.model">
+                <description>Леггинсы Allegri. Цвет: серый. Сезон: Осень-зима 2018/2019. С
+                    бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Леггинсы Allegri</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/L/AL030EWVJD18_7168833_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/L/AL030EWVJD18_7168834_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/L/AL030EWVJD18_7168835_3_v1.jpg
+                </picture>
+                <price>2070.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fal030ewvjd18%2Fclothes-allegri-legginsy%2F</url>
+                <model>Allegri AL030EWVJD18</model>
+            </offer>
+            <offer
+                available="true"
+                id="AN037AWFXI84"
+                type="vendor.model">
+                <description>Резиновые полусапоги Anra. Цвет: бежевый. Материал: искусственный
+                    материал.Сезон: Осень-зима 2018/2019. С бесплатной доставкой и примеркой на
+                    Lamoda.
+                </description>
+                <name>Резиновые полусапоги Anra</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/N/AN037AWFXI84_7183737_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/N/AN037AWFXI84_7183738_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/N/AN037AWFXI84_7183739_3_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/N/AN037AWFXI84_7183740_4_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/N/AN037AWFXI84_7183741_5_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/N/AN037AWFXI84_7208732_9_v1.jpg
+                </picture>
+                <price>590.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fan037awfxi84%2Fshoes-anra-rezinovye-polusapogi%2F</url>
+                <model>Anra AN037AWFXI84</model>
+            </offer>
+            <offer
+                available="true"
+                id="AN037AWCDN00"
+                type="vendor.model">
+                <description>Резиновые полусапоги Anra. Цвет: хаки. Материал: полимер.Сезон:
+                    Осень-зима 2018/2019. С бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Резиновые полусапоги Anra</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/N/AN037AWCDN00_7190380_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/N/AN037AWCDN00_7190381_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/N/AN037AWCDN00_7190382_3_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/N/AN037AWCDN00_7190383_4_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/N/AN037AWCDN00_7208714_9_v1.jpg
+                </picture>
+                <price>535.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fan037awcdn00%2Fshoes-anra-rezinovye-polusapogi%2F</url>
+                <model>Anra AN037AWCDN00</model>
+            </offer>
+            <offer
+                available="true"
+                id="BA007EWCLCL0"
+                type="vendor.model">
+                <description>Юбка Baon. Цвет: черный. Сезон: Осень-зима 2018/2019. С бесплатной
+                    доставкой и примеркой на Lamoda.
+                </description>
+                <name>Юбка Baon</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA007EWCLCL0_7192550_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA007EWCLCL0_7192551_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA007EWCLCL0_7192552_3_v1.jpg
+                </picture>
+                <price>1640.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fba007ewclcl0%2Fclothes-baon-yubka%2F</url>
+                <model>Baon BA007EWCLCL0</model>
+            </offer>
+            <offer
+                available="true"
+                id="AL059GWCKQC4"
+                type="vendor.model">
+                <description>Платок Alber Zoran. Цвет: синий. Сезон: Осень-зима 2018/2019. С
+                    бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Платок Alber Zoran</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/L/AL059GWCKQC4_7208957_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/L/AL059GWCKQC4_7208958_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/L/AL059GWCKQC4_7229868_9_v1.jpg
+                </picture>
+                <price>1520.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fal059gwckqc4%2Fscarfs-alberzoran-platok%2F</url>
+                <model>Alber Zoran AL059GWCKQC4</model>
+            </offer>
+            <offer
+                available="true"
+                id="AT006CUCMUZ2"
+                type="vendor.model">
+                <description>Бейсболка Atributika &amp; Club™. Цвет: синий. Сезон: Осень-зима
+                    2018/2019. С бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Бейсболка Atributika &amp; Club™</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/T/AT006CUCMUZ2_7230170_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/T/AT006CUCMUZ2_7230171_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/T/AT006CUCMUZ2_7230172_3_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/T/AT006CUCMUZ2_7237990_9_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/T/AT006CUCMUZ2_7237989_10_v1.jpg
+                </picture>
+                <price>840.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fat006cucmuz2%2Fhats-atributikaclub-beysbolka%2F</url>
+                <model>Atributika &amp; Club™ AT006CUCMUZ2</model>
+            </offer>
+            <offer
+                available="true"
+                id="AD021EWCNGF3"
+                type="vendor.model">
+                <description>Жилет утепленный Adrixx. Цвет: хаки. Сезон: Осень-зима 2018/2019. С
+                    бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Жилет утепленный Adrixx</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD021EWCNGF3_7247242_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD021EWCNGF3_7247243_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD021EWCNGF3_7247244_3_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD021EWCNGF3_7247245_4_v1.jpg
+                </picture>
+                <price>3830.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fad021ewcngf3%2Fclothes-adrixx-zhilet-uteplennyy%2F</url>
+                <model>Adrixx AD021EWCNGF3</model>
+            </offer>
+            <offer
+                available="true"
+                id="AD021EWCRHP1"
+                type="vendor.model">
+                <description>Куртка утепленная Adrixx. Цвет: синий. Сезон: Осень-зима 2018/2019. С
+                    бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Куртка утепленная Adrixx</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD021EWCRHP1_7271830_1_v2.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD021EWCRHP1_7271831_2_v2.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD021EWCRHP1_7271832_3_v2.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD021EWCRHP1_7271833_4_v2.jpg
+                </picture>
+                <price>5030.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fad021ewcrhp1%2Fclothes-adrixx-kurtka-uteplennaya%2F</url>
+                <model>Adrixx AD021EWCRHP1</model>
+            </offer>
+            <offer
+                available="true"
+                id="BA007EWAYKV5"
+                type="vendor.model">
+                <description>Рубашка Baon. Цвет: белый. Сезон: Весна-лето 2018. С бесплатной
+                    доставкой и примеркой на Lamoda.
+                </description>
+                <name>Рубашка Baon</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA007EWAYKV5_6353637_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA007EWAYKV5_6353638_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA007EWAYKV5_6353639_3_v1.jpg
+                </picture>
+                <price>1940.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fba007ewaykv5%2Fclothes-baon-rubashka%2F</url>
+                <model>Baon BA007EWAYKV5</model>
+            </offer>
+            <offer
+                available="true"
+                id="AS006AWCHOW8"
+                type="vendor.model">
+                <description>Сапоги Ascalini. Цвет: черный. Материал: натуральная замша, натуральная
+                    кожа.Сезон: Осень-зима 2018/2019. С бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Сапоги Ascalini</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/S/AS006AWCHOW8_7297472_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/S/AS006AWCHOW8_7297473_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/S/AS006AWCHOW8_7297474_3_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/S/AS006AWCHOW8_7297475_4_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/S/AS006AWCHOW8_7297476_5_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/S/AS006AWCHOW8_7307349_9_v1.jpg
+                </picture>
+                <price>9290.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fas006awchow8%2Fshoes-ascalini-sapogi%2F</url>
+                <model>Ascalini AS006AWCHOW8</model>
+            </offer>
+            <offer
+                available="true"
+                id="AA002EMCVKY3"
+                type="vendor.model">
+                <description>Костюм спортивный Aarhon. Цвет: синий. Сезон: Осень-зима 2018/2019. С
+                    бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Костюм спортивный Aarhon</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/A/AA002EMCVKY3_7325068_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/A/AA002EMCVKY3_7325069_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/A/AA002EMCVKY3_7325070_3_v1.jpg
+                </picture>
+                <price>5100.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Faa002emcvky3%2Fclothes-aarhon-kostyum-sportivnyy%2F</url>
+                <model>Aarhon AA002EMCVKY3</model>
+            </offer>
+            <offer
+                available="true"
+                id="AA002EMCVLC8"
+                type="vendor.model">
+                <description>Кардиган Aarhon. Цвет: серый. Сезон: Осень-зима 2018/2019. С бесплатной
+                    доставкой и примеркой на Lamoda.
+                </description>
+                <name>Кардиган Aarhon</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/A/AA002EMCVLC8_7329536_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/A/AA002EMCVLC8_7329537_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/A/AA002EMCVLC8_7329538_3_v1.jpg
+                </picture>
+                <price>3440.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Faa002emcvlc8%2Fclothes-aarhon-kardigan%2F</url>
+                <model>Aarhon AA002EMCVLC8</model>
+            </offer>
+            <offer
+                available="true"
+                id="AN225AMCTTD0"
+                type="vendor.model">
+                <description>Кроссовки Anta. Цвет: черный. Материал: текстиль.Сезон: Осень-зима
+                    2018/2019. С бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Кроссовки Anta</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/N/AN225AMCTTD0_7287089_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/N/AN225AMCTTD0_7287090_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/N/AN225AMCTTD0_7287091_3_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/N/AN225AMCTTD0_7287092_4_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/N/AN225AMCTTD0_7300186_9_v1.jpg
+                </picture>
+                <price>4670.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fan225amcttd0%2Fshoes-anta-krossovki%2F</url>
+                <model>Anta AN225AMCTTD0</model>
+            </offer>
+            <offer
+                available="true"
+                id="BA003AWBTUL7"
+                type="vendor.model">
+                <description>Ботфорты Balex. Цвет: черный. Материал: искусственный велюр,
+                    натуральная кожа, натуральный велюр.Сезон: Осень-зима 2018/2019. С бесплатной
+                    доставкой и примеркой на Lamoda.
+                </description>
+                <name>Ботфорты Balex</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA003AWBTUL7_7334313_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA003AWBTUL7_7334314_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA003AWBTUL7_7334315_3_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA003AWBTUL7_7334316_4_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA003AWBTUL7_7334317_5_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA003AWBTUL7_7349300_9_v1.jpg
+                </picture>
+                <price>10120.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fba003awbtul7%2Fshoes-balex-botforty%2F</url>
+                <model>Balex BA003AWBTUL7</model>
+            </offer>
+            <offer
+                available="true"
+                id="AD016EWCYDH0"
+                type="vendor.model">
+                <description>Пальто Adzhedo. Цвет: бежевый. Сезон: Осень-зима 2018/2019. С
+                    бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Пальто Adzhedo</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD016EWCYDH0_7392017_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD016EWCYDH0_7392018_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD016EWCYDH0_7392019_3_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD016EWCYDH0_7392020_4_v1.jpg
+                </picture>
+                <price>6100.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fad016ewcydh0%2Fclothes-adzhedo-palto%2F</url>
+                <model>Adzhedo AD016EWCYDH0</model>
+            </offer>
+            <offer
+                available="true"
+                id="AR029EWCSYG4"
+                type="vendor.model">
+                <description>Джемпер Art Love. Цвет: синий. Сезон: Осень-зима 2018/2019. С
+                    бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Джемпер Art Love</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/R/AR029EWCSYG4_7407420_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/R/AR029EWCSYG4_7407421_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/R/AR029EWCSYG4_7407422_3_v1.jpg
+                </picture>
+                <price>2090.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Far029ewcsyg4%2Fclothes-artlove-dzhemper%2F</url>
+                <model>Art Love AR029EWCSYG4</model>
+            </offer>
+            <offer
+                available="true"
+                id="AD014EWBDWA5"
+                type="vendor.model">
+                <description>Блуза Ad Lib. Цвет: белый. Сезон: Весна-лето 2018. С бесплатной
+                    доставкой и примеркой на Lamoda.
+                </description>
+                <name>Блуза Ad Lib</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD014EWBDWA5_6628409_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD014EWBDWA5_6628410_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD014EWBDWA5_6628411_3_v1.jpg
+                </picture>
+                <price>1660.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fad014ewbdwa5%2Fclothes-adlib-bluza%2F</url>
+                <model>Ad Lib AD014EWBDWA5</model>
+            </offer>
+            <offer
+                available="true"
+                id="BA060AMKWX67"
+                type="vendor.model">
+                <description>Ботинки Bata. Цвет: коричневый. Материал: натуральная кожа.Сезон:
+                    Осень-зима 2018/2019. С бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Ботинки Bata</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA060AMKWX67_3904219_1_v2.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA060AMKWX67_3904220_2_v2.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA060AMKWX67_3904221_3_v2.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA060AMKWX67_3904222_4_v2.jpg
+                </picture>
+                <price>4190.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fba060amkwx67%2Fshoes-bata-botinki%2F</url>
+                <model>Bata BA060AMKWX67</model>
+            </offer>
+            <offer
+                available="true"
+                id="AD016EWDBVK9"
+                type="vendor.model">
+                <description>Костюм Adzhedo. Цвет: мультиколор, синий. Сезон: Осень-зима 2018/2019.
+                    С бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Костюм Adzhedo</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD016EWDBVK9_7512551_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD016EWDBVK9_7512552_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD016EWDBVK9_7512553_3_v1.jpg
+                </picture>
+                <price>5730.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fad016ewdbvk9%2Fclothes-adzhedo-kostyum%2F</url>
+                <model>Adzhedo AD016EWDBVK9</model>
+            </offer>
+            <offer
+                available="true"
+                id="AS455AKABYO5"
+                type="vendor.model">
+                <description>Кроссовки ASICS. Цвет: черный. Материал: искусственная кожа,
+                    текстиль.Сезон: Весна-лето 2018. С бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Кроссовки ASICS</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/S/AS455AKABYO5_5915688_1_v3.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/S/AS455AKABYO5_5915689_2_v3.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/S/AS455AKABYO5_5915690_3_v3.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/S/AS455AKABYO5_5915691_4_v3.jpg
+                </picture>
+                <price>2540.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fas455akabyo5%2Fshoes-asics-krossovki%2F</url>
+                <model>ASICS AS455AKABYO5</model>
+            </offer>
+            <offer
+                available="true"
+                id="AD002EMALUP9"
+                type="vendor.model">
+                <description>Футболка adidas. Цвет: белый. Сезон: Весна-лето 2018. С бесплатной
+                    доставкой и примеркой на Lamoda.
+                </description>
+                <name>Футболка adidas</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD002EMALUP9_6090341_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD002EMALUP9_6090342_2_v1.jpg
+                </picture>
+                <price>1340.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fad002emalup9%2Fclothes-adidas-futbolka%2F</url>
+                <model>adidas AD002EMALUP9</model>
+            </offer>
+            <offer
+                available="true"
+                id="AD002EGALXX4"
+                type="vendor.model">
+                <description>Леггинсы adidas. Цвет: красный. Сезон: Весна-лето 2018. С бесплатной
+                    доставкой и примеркой на Lamoda.
+                </description>
+                <name>Леггинсы adidas</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD002EGALXX4_6094992_1_v3.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD002EGALXX4_6094993_2_v3.jpg
+                </picture>
+                <price>1880.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fad002egalxx4%2Fclothes-adidas-legginsy%2F</url>
+                <model>adidas AD002EGALXX4</model>
+            </offer>
+            <offer
+                available="true"
+                id="AC008EGBIME7"
+                type="vendor.model">
+                <description>Футболка Acoola. Цвет: серый. Сезон: Весна-лето 2018. С бесплатной
+                    доставкой и примеркой на Lamoda.
+                </description>
+                <name>Футболка Acoola</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/C/AC008EGBIME7_6617570_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/C/AC008EGBIME7_6617571_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/C/AC008EGBIME7_6617572_3_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/C/AC008EGBIME7_6617573_4_v1.jpg
+                </picture>
+                <price>535.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fac008egbime7%2Fclothes-acoola-futbolka%2F</url>
+                <model>Acoola AC008EGBIME7</model>
+            </offer>
+            <offer
+                available="true"
+                id="AC008EGACXQ8"
+                type="vendor.model">
+                <description>Лонгслив Acoola. Цвет: серый. Сезон: Весна-лето 2018. С бесплатной
+                    доставкой и примеркой на Lamoda.
+                </description>
+                <name>Лонгслив Acoola</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/C/AC008EGACXQ8_6088177_1_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/C/AC008EGACXQ8_6088178_2_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/C/AC008EGACXQ8_6088179_3_v1.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/C/AC008EGACXQ8_6088180_4_v1.jpg
+                </picture>
+                <price>625.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fac008egacxq8%2Fclothes-acoola-longsliv%2F</url>
+                <model>Acoola AC008EGACXQ8</model>
+            </offer>
+            <offer
+                available="true"
+                id="AD006EWIBP08"
+                type="vendor.model">
+                <description>Джинсы adL. Цвет: красный. Сезон: Весна-лето 2016. С бесплатной
+                    доставкой и примеркой на Lamoda.
+                </description>
+                <name>Джинсы adL</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD006EWIBP08_1_v2.jpg</picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD006EWIBP08_2_v1.jpg</picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD006EWIBP08_3_v1.jpg</picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/D/AD006EWIBP08_4_v1.jpg</picture>
+                <price>470.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fad006ewibp08%2Fclothes-adladilisik-dzhinsy%2F</url>
+                <model>adL AD006EWIBP08</model>
+            </offer>
+            <offer
+                available="true"
+                id="AN003AWAARW8"
+                type="vendor.model">
+                <description>Кеды Antonio Biaggi. Цвет: голубой. Материал: натуральная кожа.Сезон:
+                    Весна-лето 2018. С бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Кеды Antonio Biaggi</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/N/AN003AWAARW8_6134013_1_v3.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/N/AN003AWAARW8_6134014_2_v3.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/N/AN003AWAARW8_6134015_3_v3.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/N/AN003AWAARW8_6134016_4_v3.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/N/AN003AWAARW8_6153911_9_v3.jpg
+                </picture>
+                <price>5440.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fan003awaarw8%2Fshoes-antoniobiaggi-kedy%2F</url>
+                <model>Antonio Biaggi AN003AWAARW8</model>
+            </offer>
+            <offer
+                available="true"
+                id="AS009AWZTU93"
+                type="vendor.model">
+                <description>Кроссовки ASICSTiger. Цвет: бежевый. Материал: искусственный материал,
+                    текстиль.Сезон: Осень-зима 2018/2019. С бесплатной доставкой и примеркой на
+                    Lamoda.
+                </description>
+                <name>Кроссовки ASICSTiger</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/S/AS009AWZTU93_6519720_1_v2.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/S/AS009AWZTU93_6519721_2_v2.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/S/AS009AWZTU93_6519722_3_v2.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/S/AS009AWZTU93_6519723_4_v2.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/A/S/AS009AWZTU93_6539771_9_v1.jpg
+                </picture>
+                <price>5580.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fas009awztu93%2Fshoes-asicstiger-krossovki%2F</url>
+                <model>ASICSTiger AS009AWZTU93</model>
+            </offer>
+            <offer
+                available="true"
+                id="BA039BWAFOW5"
+                type="vendor.model">
+                <description>Сумка Baggini. Цвет: серый. Материал: натуральная кожа.Сезон:
+                    Весна-лето 2018. С бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Сумка Baggini</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA039BWAFOW5_6072370_1_v3.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA039BWAFOW5_6072371_2_v3.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA039BWAFOW5_6072372_3_v3.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA039BWAFOW5_6079979_9_v3.jpg
+                </picture>
+                <price>3110.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fba039bwafow5%2Fbags-baggini-sumka%2F</url>
+                <model>Baggini BA039BWAFOW5</model>
+            </offer>
+            <offer
+                available="true"
+                id="BA065ABRVV03"
+                type="vendor.model">
+                <description>Ботинки Barritos. Цвет: синий. Материал: натуральная кожа.Сезон:
+                    Весна-лето 2018. С бесплатной доставкой и примеркой на Lamoda.
+                </description>
+                <name>Ботинки Barritos</name>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA065ABRVV03_4639641_1_v4.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA065ABRVV03_4639642_2_v4.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA065ABRVV03_4639643_3_v4.jpg
+                </picture>
+                <picture>https://a.lmcdn.ru/pi/img600x866/B/A/BA065ABRVV03_4639644_4_v4.jpg
+                </picture>
+                <price>3070.00</price>
+                <url>https://modato.ru/g/3f2779c2d4c92be16a6c4e8640d77b/?i=5&amp;ulp=https%3A%2F%2Fwww.lamoda.ru%2Fp%2Fba065abrvv03%2Fshoes-barritos-botinki%2F</url>
+                <model>Barritos BA065ABRVV03</model>
+            </offer>
+        </offers>
+<!--
+    </shop>
+</yml_catalog>-->

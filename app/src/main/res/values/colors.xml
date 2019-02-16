@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#c885a9</color>
+    <color name="trans">#0000</color>
+    <!--<color name="colorAccent">#FF4081</color>-->
+    <color name="colorAccent">#E396C0</color>
+    <color name="back">#9a9a9a</color>
+    <color name="white">#d8afb5</color>
+    <color name="butt">#616161</color>
+</resources>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:layout_marginHorizontal="10dp"
+    android:layout_marginVertical="5dp"
+    android:background="@color/back"
+    android:orientation="vertical">
+
+
+    <FrameLayout
+        android:id="@+id/frameLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@color/white" />
+
+        <ImageView
+            android:id="@+id/imagePhoto"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:padding="5dp" />
+
+        <!--<com.github.siyamed.shapeimageview.RoundedImageView
+            android:id="@+id/roundedPhoto"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            app:siRadius="6dp"
+            app:siBorderColor="@color/back"
+            app:siSquare="false"
+            android:foregroundGravity="center_horizontal"/>-->
+    </FrameLayout>
+
+
+    <TextView
+        android:id="@+id/itemName"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:gravity="center_horizontal|center_vertical"
+        android:paddingHorizontal="10dp"
+        android:text="TextView"
+        app:layout_constraintTop_toBottomOf="@+id/frameLayout" />
+
+
+    <View
+        android:id="@+id/divider"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="?android:attr/listDivider"
+        app:layout_constraintTop_toBottomOf="@+id/itemName" />
+
+
+    <TextView
+        android:id="@+id/tvPrice"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center_horizontal"
+        android:paddingHorizontal="10dp"
+        android:text="TextView"
+        app:layout_constraintTop_toBottomOf="@+id/itemName" />
+
+    <Button
+        android:id="@+id/btBuy"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginHorizontal="10dp"
+        android:text="Купить"
+        android:gravity="center_horizontal"
+        app:layout_constraintTop_toBottomOf="@+id/tvPrice"
+        style="@style/Base.Widget.AppCompat.Button.Colored"/>
+
+</android.support.constraint.ConstraintLayout>
